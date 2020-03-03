@@ -1,2 +1,0 @@
-# vuedemo
-VueLearnCode
